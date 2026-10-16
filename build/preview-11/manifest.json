@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\项目文档\\11_电脑环境配置总览与快速开始.docx",
+  "sourceSha256": "495a04485fe78e519b048bd1879a83655c06eb35e0cf26f2b50f4ae7773c434d",
+  "dpi": 100,
+  "pageCount": 7,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-11\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 44802
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-11\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 68840
+    }
+  ],
+  "missingFonts": []
+}

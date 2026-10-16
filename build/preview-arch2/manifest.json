@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\02_总体技术架构方案.docx",
+  "sourceSha256": "cf81fd480e39a3beaa6c479785c757422622469bd23f12b843d7a5a1c5913a13",
+  "dpi": 100,
+  "pageCount": 54,
+  "images": [
+    {
+      "index": 1,
+      "page": 3,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-arch2\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 58251
+    },
+    {
+      "index": 2,
+      "page": 14,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-arch2\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 57228
+    }
+  ],
+  "missingFonts": []
+}

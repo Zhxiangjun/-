@@ -1,0 +1,395 @@
+{
+  "format": "docx",
+  "verdict": "pass",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u5355\u673a\u5f00\u53d1\u73af\u5883\u9a8c\u6536\u6e05\u5355"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u5916\u63f4\u73af\u5883"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u7b2c 4 \u7ae0 \u53f0\u5f0f\u673a\u5168\u6808\u73af\u5883"
+    }
+  ],
+  "summary": {
+    "paragraphs": 1665,
+    "tables": [
+      {
+        "rows": 10,
+        "columns": 2
+      },
+      {
+        "rows": 4,
+        "columns": 5
+      },
+      {
+        "rows": 7,
+        "columns": 4
+      },
+      {
+        "rows": 5,
+        "columns": 5
+      },
+      {
+        "rows": 18,
+        "columns": 5
+      },
+      {
+        "rows": 12,
+        "columns": 5
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 14,
+        "columns": 4
+      },
+      {
+        "rows": 5,
+        "columns": 5
+      },
+      {
+        "rows": 7,
+        "columns": 3
+      },
+      {
+        "rows": 7,
+        "columns": 3
+      },
+      {
+        "rows": 7,
+        "columns": 5
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 6,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 16,
+        "columns": 4
+      },
+      {
+        "rows": 4,
+        "columns": 3
+      },
+      {
+        "rows": 7,
+        "columns": 3
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 7,
+        "columns": 3
+      },
+      {
+        "rows": 6,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 8,
+        "columns": 3
+      },
+      {
+        "rows": 6,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 13,
+        "columns": 3
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 8,
+        "columns": 3
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 11,
+        "columns": 3
+      },
+      {
+        "rows": 11,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 10,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 6,
+        "columns": 2
+      },
+      {
+        "rows": 3,
+        "columns": 4
+      },
+      {
+        "rows": 1,
+        "columns": 1
+      },
+      {
+        "rows": 17,
+        "columns": 3
+      },
+      {
+        "rows": 21,
+        "columns": 2
+      },
+      {
+        "rows": 9,
+        "columns": 6
+      }
+    ],
+    "sections": [
+      {
+        "page_twips": {
+          "w": "12240",
+          "h": "15840"
+        },
+        "margins_twips": {
+          "top": "1247",
+          "right": "1361",
+          "bottom": "1134",
+          "left": "1474",
+          "header": "720",
+          "footer": "720",
+          "gutter": "0"
+        }
+      }
+    ]
+  }
+}

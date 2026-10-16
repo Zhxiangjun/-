@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\06_项目汇报PPT.pptx",
+  "sourceSha256": "85195eed5bc5320d457afa5be4de52f928eff9b3459dfedff8e4d3b1a2a14c9c",
+  "dpi": 100,
+  "pageCount": 13,
+  "images": [
+    {
+      "index": 1,
+      "page": 9,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-ppt3\\page-0001.png",
+      "width": 1334,
+      "height": 751,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720.0666666666667
+      },
+      "byteLength": 88381
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-ppt3\\page-0002.png",
+      "width": 1334,
+      "height": 751,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720.0666666666667
+      },
+      "byteLength": 128628
+    },
+    {
+      "index": 3,
+      "page": 7,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-ppt3\\page-0003.png",
+      "width": 1334,
+      "height": 751,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720.0666666666667
+      },
+      "byteLength": 113687
+    }
+  ],
+  "missingFonts": []
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\项目文档\\12_协作开发环境配置指引.docx",
+  "sourceSha256": "ad1f66f500647524bdc861d6c721d072c384406a050305f7c1d0fbac49f6241d",
+  "dpi": 100,
+  "pageCount": 6,
+  "images": [
+    {
+      "index": 1,
+      "page": 3,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-12\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 101563
+    }
+  ],
+  "missingFonts": []
+}

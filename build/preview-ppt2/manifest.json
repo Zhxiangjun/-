@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\06_项目汇报PPT.pptx",
+  "sourceSha256": "c04604d31e478f07b9b1000cc99b2b88d200939c0cc89708c43193d78587ef2a",
+  "dpi": 100,
+  "pageCount": 13,
+  "images": [
+    {
+      "index": 1,
+      "page": 9,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-ppt2\\page-0001.png",
+      "width": 1334,
+      "height": 751,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720.0666666666667
+      },
+      "byteLength": 89483
+    }
+  ],
+  "missingFonts": []
+}

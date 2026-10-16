@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\项目文档\\09_电脑环境配置详细方案.docx",
+  "sourceSha256": "b7730d6db9357996baf9db21e6883437abc6eaa6448a8b7da7209dcb5a605aef",
+  "dpi": 100,
+  "pageCount": 59,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 53129
+    },
+    {
+      "index": 2,
+      "page": 7,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 38448
+    },
+    {
+      "index": 3,
+      "page": 14,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg\\page-0003.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 71608
+    },
+    {
+      "index": 4,
+      "page": 22,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg\\page-0004.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 59380
+    }
+  ],
+  "missingFonts": []
+}

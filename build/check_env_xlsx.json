@@ -1,0 +1,50 @@
+{
+  "format": "xlsx",
+  "verdict": "fail",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "RTX 3050"
+    },
+    {
+      "id": "contains",
+      "status": "fail",
+      "text": "registry-mirrors"
+    }
+  ],
+  "summary": {
+    "sheets": [
+      {
+        "name": "01-\u673a\u5668\u89d2\u8272\u5206\u5de5",
+        "cells": 42,
+        "formulas": 0
+      },
+      {
+        "name": "02-\u8f6f\u4ef6\u5b89\u88c5\u6e05\u5355",
+        "cells": 353,
+        "formulas": 0
+      },
+      {
+        "name": "03-\u73af\u5883\u9a8c\u6536\u6e05\u5355",
+        "cells": 254,
+        "formulas": 0
+      },
+      {
+        "name": "04-\u4e91\u670d\u52a1\u5668\u9009\u578b\u4e0e\u6210\u672c",
+        "cells": 69,
+        "formulas": 0
+      },
+      {
+        "name": "05-\u673a\u623f\u79bb\u7ebf\u5305\u6e05\u5355",
+        "cells": 57,
+        "formulas": 0
+      }
+    ],
+    "formulas_evaluated": false
+  }
+}

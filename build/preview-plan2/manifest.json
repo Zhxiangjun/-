@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\04_实施路线图与里程碑计划.docx",
+  "sourceSha256": "29afdac555b5942fc08592e161900b7bb2c512908e9710b5f8a3f8e8790ecb65",
+  "dpi": 110,
+  "pageCount": 15,
+  "images": [
+    {
+      "index": 1,
+      "page": 7,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-plan2\\page-0001.png",
+      "width": 935,
+      "height": 1210,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 65423
+    }
+  ],
+  "missingFonts": []
+}

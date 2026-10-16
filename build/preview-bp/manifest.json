@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\05_商业计划书.docx",
+  "sourceSha256": "80ff9462d2138953f7bd5ad859650345a834f88b3cc4c3456992dab4a7819af4",
+  "dpi": 100,
+  "pageCount": 42,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-bp\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 44850
+    },
+    {
+      "index": 2,
+      "page": 12,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-bp\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 54013
+    }
+  ],
+  "missingFonts": []
+}

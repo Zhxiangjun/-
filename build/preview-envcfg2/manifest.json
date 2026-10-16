@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\项目文档\\09_电脑环境配置详细方案_新版.docx",
+  "sourceSha256": "732521d45cd9178d4c6f5e4b7e010d8f0f5ff74d056dcfe721afbdfd393f6005",
+  "dpi": 100,
+  "pageCount": 55,
+  "images": [
+    {
+      "index": 1,
+      "page": 6,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg2\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 71270
+    },
+    {
+      "index": 2,
+      "page": 20,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-envcfg2\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 72097
+    }
+  ],
+  "missingFonts": []
+}

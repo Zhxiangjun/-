@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\07_开发环境搭建与部署准备指南.docx",
+  "sourceSha256": "bbe2ce33dc15b5ba2b1ab53eb322e1ae54c20f267d3a784a6c52f05aec079127",
+  "dpi": 100,
+  "pageCount": 25,
+  "images": [
+    {
+      "index": 1,
+      "page": 2,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-env\\page-0001.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 82736
+    },
+    {
+      "index": 2,
+      "page": 5,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-env\\page-0002.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 51374
+    },
+    {
+      "index": 3,
+      "page": 8,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-env\\page-0003.png",
+      "width": 850,
+      "height": 1100,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 82746
+    }
+  ],
+  "missingFonts": []
+}

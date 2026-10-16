@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "F:\\职业中专\\大赛\\智慧园区创意\\01_需求规格说明书.docx",
+  "sourceSha256": "4da9389d028d07d52a5885f27aec30b7d01789a78da785402aab0d5ad805fdc8",
+  "dpi": 110,
+  "pageCount": 46,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-srs\\page-0001.png",
+      "width": 935,
+      "height": 1210,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 44964
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-srs\\page-0002.png",
+      "width": 935,
+      "height": 1210,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 32572
+    },
+    {
+      "index": 3,
+      "page": 6,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-srs\\page-0003.png",
+      "width": 935,
+      "height": 1210,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 64119
+    },
+    {
+      "index": 4,
+      "page": 9,
+      "path": "F:\\职业中专\\大赛\\智慧园区创意\\build\\preview-srs\\page-0004.png",
+      "width": 935,
+      "height": 1210,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 816,
+        "height": 1056
+      },
+      "byteLength": 67981
+    }
+  ],
+  "missingFonts": []
+}
